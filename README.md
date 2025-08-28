@@ -11,3 +11,4 @@ I am familiar with various development tools and technologies such as **Git, Mav
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LestFeeD&layout=compact&theme=dark)
 ![Oleg's GitHub Profile Summary](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=LestFeeD&theme=github_dark)
+![Profile Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LestFeeD&theme=github_dark)
