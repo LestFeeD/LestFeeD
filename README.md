@@ -10,4 +10,4 @@
 I am familiar with various development tools and technologies such as **Git, Maven, and JUnit**. I am an enthusiastic and motivated learner, always ready to improve my skills and contribute to the development process.  
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LestFeeD&layout=compact&theme=dark)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LestFeeD)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LestFeeD&theme=dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
